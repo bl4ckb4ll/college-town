@@ -1,31 +1,30 @@
 # Providence — Brown University
 
-## Current leads
+## Verified observations
 
-### The approximately $30 sandwich
+### A $30 sandwich
 
-The particular sandwich and business have not yet been identified. Keep this claim as a `lead`; do not round a cheaper item upward or use a delivery-app total as though it were the menu price.
+Chomp's current Providence online-ordering menu advertises an **“August Special: Lobster BLT” for $30.00**. The menu identifies the Providence location as **117 Ives Street, Providence, RI 02906**.
 
-Verification should preserve:
+This verifies the narrow claim that a Providence business advertises one sandwich at a base menu price of $30. It does not establish who buys it or that buyers are Brown students. The walking route from the restaurant to Brown should still be measured and recorded.
 
-- business and address;
-- exact item name and menu description;
-- base menu price;
-- fees or add-ons, separately;
-- current menu URL or dated photograph;
-- walking distance to Brown.
+Primary source: https://order.toasttab.com/online/chomppvd/item-one-size_565e1369-efb7-4f18-b166-1c0fd8d7ae1b
 
-A 2025 Brown student article documents the campus-oriented sandwich market but does not establish the $30 price:
-
-https://www.hercampus.com/school/brown/the-providence-sandwich-scene-5-spots-you-cant-miss/
+Observed: 2026-09-01
 
 ### High-cost housing near Brown
 
-A current off-campus-housing search result lists **257 Thayer** one-bedroom apartments from **$2,799/month**, directly on Thayer Street near Brown. Because this is an aggregator, it is recorded as a lead pending confirmation from the property or a preserved dated listing.
+257 Thayer's own rate page advertises a **one-bedroom, one-bath apartment at $2,799 per person per installment** for its standard 2026–27 term, August 17, 2026 through July 30, 2027. The page specifies **12 installments**, describes the unit as **waitlist only**, and says an annual **$150 administrative fee** is required. It also says roughly 33% of the rate is allocated to an accompanying lease for furnishings, utilities, and amenities.
 
-Source: https://www.apartments.com/off-campus-housing/ri/providence/brown-university/
+This primary source replaces the earlier aggregator-only lead. The property's site markets 257 Thayer as student housing near Brown, but the price alone does not identify any resident or establish a resident's income.
 
-The same result contains multiple examples above $2,500, including 229 Waterman Street at $2,800+ for one bedroom. Prices and availability are volatile.
+Primary source: https://257thayer.com/rates-floorplans/
+
+Supporting property address and floor-plan page: https://prospect.257thayer.com/providence/257-thayer/floorplans/1-bedroom-1-bath-1055413/fp_name/occupancy_type/conventional/
+
+Observed: 2026-09-01
+
+Prices and availability are volatile. Preserve a dated screenshot or archived copy when practical rather than silently replacing these observations if the pages change.
 
 ## Context needed
 
