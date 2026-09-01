@@ -6,9 +6,15 @@
 
 Chomp's current Providence online-ordering menu advertises an **“August Special: Lobster BLT” for $30.00**. The menu identifies the Providence location as **117 Ives Street, Providence, RI 02906**.
 
-This verifies the narrow claim that a Providence business advertises one sandwich at a base menu price of $30. It does not establish who buys it or that buyers are Brown students. The walking route from the restaurant to Brown should still be measured and recorded.
+Google Maps measured the shortest displayed walking route from 117 Ives Street to **Prince Engineering Laboratory/Barus & Holley, 184 Hope Street**, as **0.7 mile and approximately 17 minutes via Ives Street** on 2026-09-01. Brown's own Facilities and Campus Operations page identifies 184 Hope Street as Barus & Holley/Prince Lab and says the building houses Brown's School of Engineering and Physics Department.
 
-Primary source: https://order.toasttab.com/online/chomppvd/item-one-size_565e1369-efb7-4f18-b166-1c0fd8d7ae1b
+This verifies only that Chomp is within a measured walk of a named Brown facility. It does not establish who buys the sandwich, whether customers are affiliated with Brown, or their income.
+
+Primary menu source: https://order.toasttab.com/online/chomppvd/item-one-size_565e1369-efb7-4f18-b166-1c0fd8d7ae1b
+
+Brown endpoint source: https://facilities.brown.edu/project/barus-holley-prince-lab
+
+Walking-route source: https://www.google.com/maps/dir/117+Ives+St,+Providence,+RI+02906/Prince+Engineering+Laboratory,+184+Hope+St,+Providence,+RI+02912/@41.8243347,-71.4006231,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e44530d0c2e40d:0xd6812591c1a2b84d!2m2!1d-71.3917574!2d41.8215479!1m5!1m1!1s0x89e4453b348ca60f:0x7347a5dba1891440!2m2!1d-71.398302!2d41.8268574!3e2?entry=ttu&g_ep=EgoyMDI2MDgzMC4wIKXMDSoASAFQAw%3D%3D
 
 Observed: 2026-09-01
 
